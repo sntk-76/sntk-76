@@ -92,7 +92,3 @@ I'm always open to new opportunities, collaborations, and conversations. You can
 - **Portfolio**: [My Portfolio](#)
 - **Blog**: [My Blog](#)
 - **Resume**: [Download My Resume](https://github.com/sntk-76/sntk-76/blob/main/assets/O_resume.pdf)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sntk-76&color=blue" alt="Profile Views" />
-</p>
