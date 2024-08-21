@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer;Data+Analyst;ML+Enthusiast)](https://git.io/typing-svg)
 
-![Banner](https://source.unsplash.com/1600x400/?coding,python) <!-- Replace with your preferred banner image -->
+![Banner](https://github.com/sntk-76/sntk-76/blob/main/assets/_57475d54-6d09-41bd-a96a-4d116609c547.jfif)
 
 ### 🚀 Welcome to My GitHub Profile!
 
