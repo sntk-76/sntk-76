@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Sina Tavakoli
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer;Data+Analyst;ML+Enthusiast)](https://git.io/typing-svg)
+![Python Developer](https://img.shields.io/badge/Python_Developer-%2336BCF7?style=for-the-badge&logo=python&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-%23F7DF1E?style=for-the-badge&logo=data%20analyst&logoColor=white)
+![ML Enthusiast](https://img.shields.io/badge/ML_Enthusiast-%23FF6F61?style=for-the-badge&logo=machine%20learning&logoColor=white)
 
 ![Banner](https://github.com/sntk-76/sntk-76/blob/main/assets/_57475d54-6d09-41bd-a96a-4d116609c547.jfif)
 
