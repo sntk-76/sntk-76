@@ -68,7 +68,7 @@ I'm always open to new opportunities, collaborations, and conversations. You can
 
 ## ⚡ A Little More About Me
 
-- I'm a **fast learner** and a **hard worker** with a relentless passion for programming and solving complex problems.
+- I pride myself on being a quick learner and a dedicated worker, always eager to tackle new challenges head-on. My enthusiasm for programming is boundless, driving me to continuously improve my skills and knowledge. Whether it’s mastering a new technology or solving a complex problem, I approach each task with determination and a positive attitude. My relentless passion for coding and problem-solving fuels my drive to deliver innovative and efficient solutions, making me a valuable asset in any project or team.
 
 ---
 
