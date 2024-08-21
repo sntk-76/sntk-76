@@ -73,13 +73,9 @@ I'm always open to new opportunities, collaborations, and conversations. You can
 
 ![Sina's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sntk-76&theme=radical)
 
----
-
-### 📊 Contribution Graph
-
-![Sina's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sntk-76&theme=radical)
 
 ---
+
 
 ### 🔗 Useful Links
 
