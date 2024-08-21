@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Sina Tavakoli
 
+![Welcome Banner](https://your-custom-banner-image-url.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer+%7C+Data+Analyst+%7C+ML+Enthusiast)](https://git.io/typing-svg)
+
 ### 🚀 Welcome to My GitHub Profile!
 
 I'm a **highly motivated Python developer** with a robust technical background and a passion for continuous learning. With a Bachelor's degree in Electrical Engineering and over three years of hands-on experience in Python programming, I've honed my skills in delivering efficient, scalable, and innovative solutions. Currently, I'm pursuing a Master's degree in ICT with a focus on programming, where I continue to expand my expertise in cutting-edge technologies.
@@ -52,8 +56,8 @@ I'm passionate about a range of topics within the tech ecosystem. Feel free to r
 
 I'm always open to new opportunities, collaborations, and conversations. You can reach me via:
 
-- **LinkedIn**: [Sina Tavakoli](https://www.linkedin.com/in/sina-tavakoli-b25ba6224/)
-- **Kaggle**: [Sina Tavakoli](https://www.kaggle.com/sinatavakoli)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sina-tavakoli-b25ba6224/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sinatavakoli)
 
 ---
 
@@ -66,6 +70,7 @@ I'm always open to new opportunities, collaborations, and conversations. You can
 ## 📈 My GitHub Stats
 
 ![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sntk-76&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sntk-76&layout=compact&theme=radical)
 
 ---
 
@@ -73,12 +78,12 @@ I'm always open to new opportunities, collaborations, and conversations. You can
 
 ![Sina's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sntk-76&theme=radical)
 
-
 ---
-
 
 ### 🔗 Useful Links
 
 - **Portfolio**: [My Portfolio](#)
 - **Blog**: [My Blog](#)
 - **Resume**: [Download My Resume](https://github.com/sntk-76/sntk-76/blob/main/assets/O_resume.pdf)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sntk-76&color=blue)
