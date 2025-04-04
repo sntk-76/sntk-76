@@ -1,66 +1,73 @@
 # 👋 Hi there, I'm Sina Tavakoli
 
+![Data Engineer](https://img.shields.io/badge/Data_Engineer-%23009688?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-%23F7DF1E?style=for-the-badge&logo=data%20science&logoColor=white)
 ![Python Developer](https://img.shields.io/badge/Python_Developer-%2336BCF7?style=for-the-badge&logo=python&logoColor=white)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-%23F7DF1E?style=for-the-badge&logo=data%20analyst&logoColor=white)
-![ML Enthusiast](https://img.shields.io/badge/ML_Enthusiast-%23FF6F61?style=for-the-badge&logo=machine%20learning&logoColor=white)
 
 ![Banner](https://github.com/sntk-76/sntk-76/blob/main/assets/_57475d54-6d09-41bd-a96a-4d116609c547.jfif)
 
+---
+
 ### 🚀 Welcome to My GitHub Profile!
 
-I'm a **highly motivated Python developer** with a robust technical background and a passion for continuous learning. With a Bachelor's degree in Electrical Engineering and over four years of hands-on experience in Python programming, I've honed my skills in delivering efficient, scalable, and innovative solutions. Currently, I'm pursuing a Master's degree in ICT with a focus on programming, where I continue to expand my expertise in cutting-edge technologies.
+I'm a **data-driven Python developer** with a strong academic foundation and professional experience at the intersection of **data science**, **data engineering**, and **machine learning**. Holding a Bachelor's in Electrical Engineering and currently pursuing a Master's in ICT, I specialize in building scalable, reliable, and impactful data solutions that empower decision-making and automation.
 
-My journey as a developer has equipped me with a diverse skill set and a deep understanding of various programming paradigms. I have a proven track record of successfully implementing complex projects, from data analysis and machine learning to web development and automation. My ability to adapt to new challenges and learn quickly has been instrumental in my professional growth.
+With over 4 years of hands-on experience in Python programming, I’ve successfully contributed to projects ranging from cloud-native data pipelines to deep learning-based sentiment analysis. I thrive in environments where I can combine analytical thinking with engineering rigor to deliver end-to-end solutions that drive real value.
 
 ---
 
-## 🔭 Projects That Showcase My Skills
+## 🧠 Core Competencies
 
-Here are some of the projects that I've worked on, which reflect my capabilities in data analysis, machine learning, and software development:
+- **Programming:** Python, SQL, Bash, Pandas, NumPy, Scikit-learn, TensorFlow
+- **Data Engineering:** Apache Airflow, Docker, Terraform, dbt, ETL/ELT pipelines, cloud storage (GCP & AWS)
+- **Data Science:** Machine Learning, Data Cleaning, Feature Engineering, Predictive Modeling
+- **Tools:** GitHub, Jupyter, VS Code, Tableau, Power BI, Google BigQuery
+- **Platforms:** Linux, GCP (BigQuery, Cloud Storage), AWS (S3, Lambda), WSL
 
-| **Project** | **Description** |
-|-------------|-----------------|
-| [**Retail-Data-Pipeline**](https://github.com/sntk-76/Retail-Data-Pipeline) | ![data pipeline](https://img.shields.io/badge/-Datapipeline-blue) This repository offers a scalable, automated cloud-native pipeline for retail data processing, transformation, and visualization using industry-standard tools. |
-| [**Data-Mining**](https://github.com/sntk-76/Data-Mining) | ![Dee learning](https://img.shields.io/badge/-DeppLearning-blue) This project classifies Reddit posts by popularity using NLP and deep learning techniques. |
-| [**Abstract-base-sentiment-analysis**](https://github.com/sntk-76/Abstract-base-sentiment-analysis) | ![NLP](https://img.shields.io/badge/-NLP-blue) Sentiment analysis using abstract data, leveraging NLP techniques. |
-| [**Breast-Cancer**](https://github.com/sntk-76/Breast-Cancer) | ![ML](https://img.shields.io/badge/-Machine%20Learning-red) Predictive analysis of breast cancer using machine learning algorithms. |
-| [**Customer-Segmentation**](https://github.com/sntk-76/Customer-Segmentation) | ![Data Science](https://img.shields.io/badge/-Data%20Science-orange) Segmenting customers based on demographic and behavioral data. |
-| [**Snake-Game**](https://github.com/sntk-76/Snake-Game) | ![Game Development](https://img.shields.io/badge/-Game%20Development-green) A classic Snake game implemented in Python with enhanced features. |
-| [**Google-play-data-analysis**](https://github.com/sntk-76/google-play-data-analysis) | ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-yellow) Extracting insights from Google Play Store data using data analysis techniques. |
-| [**Classification-project-1**](https://github.com/sntk-76/Classification-project-1) | ![ML](https://img.shields.io/badge/-Machine%20Learning-red) A comprehensive classification project exploring different machine learning models. |
-| [**Car-price-estimation**](https://github.com/sntk-76/car-price-estimation) | ![Data Science](https://img.shields.io/badge/-Data%20Science-orange) Predicting car prices based on historical data and feature analysis. |
-| [**Market-analyze**](https://github.com/sntk-76/Market-analyze) | ![Market Analysis](https://img.shields.io/badge/-Market%20Analysis-purple) Analyzing market trends and generating actionable insights. |
-| [**Analyzing-Ukraine-war**](https://github.com/sntk-76/analyzing-Ukraine-war) | ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-yellow) Data-driven analysis of the ongoing Ukraine conflict. |
-| [**Corrupted-image-and-patches**](https://github.com/sntk-76/corrupted-image-and-patches) | ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue) Working with image data to manage corruption and patching. |
-| [**Road-sign-detection**](https://github.com/sntk-76/road-sign-detection) | ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue) Detecting road signs using advanced computer vision techniques. |
-| [**Line-detection**](https://github.com/sntk-76/line-detection) | ![Image Processing](https://img.shields.io/badge/-Image%20Processing-lightblue) A focused project on detecting lines in images using edge detection. |
-| [**Olympics-game-network**](https://github.com/sntk-76/olympics-game-network) | ![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-violet) Network analysis of the Olympic Games to understand connections and trends. |
+---
+
+## 🛠️ Selected Projects (Labeled & Expanded)
+
+| **Label** | **Project** | **Description** |
+|----------|-------------|-----------------|
+| 🛠 **Data Engineering** | [**Retail Data Pipeline**](https://github.com/sntk-76/Retail-Data-Pipeline) | A cloud-native, scalable data pipeline built using Docker, Airflow, and BigQuery for ingestion, transformation, and visualization of retail sales data. The pipeline demonstrates CI/CD principles and modular ETL processes. |
+| 🤖 **Deep Learning / NLP** | [**Data Mining**](https://github.com/sntk-76/Data-Mining) | Built a Reddit post classifier using natural language processing and deep learning techniques, applying LSTM networks to classify post popularity. |
+| 💬 **NLP / Sentiment Analysis** | [**Abstract-Based Sentiment Analysis**](https://github.com/sntk-76/Abstract-base-sentiment-analysis) | Leveraged NLP libraries and pretrained models to extract sentiment from research abstracts and evaluate subject trends. |
+| 🧬 **Predictive Modeling** | [**Breast Cancer Detection**](https://github.com/sntk-76/Breast-Cancer) | Developed machine learning models (SVM, Random Forest) for early-stage breast cancer prediction with high accuracy and model interpretability. |
+| 🧠 **Customer Analytics** | [**Customer Segmentation**](https://github.com/sntk-76/Customer-Segmentation) | Applied clustering algorithms (KMeans, DBSCAN) on customer behavior data to create actionable customer profiles for marketing strategies. |
+| 🎮 **Python Projects** | [**Snake Game**](https://github.com/sntk-76/Snake-Game) | Implemented the classic Snake game with modular structure and additional UI features using Python’s `pygame` library. |
+| 📊 **Exploratory Data Analysis** | [**Google Play Store Analysis**](https://github.com/sntk-76/google-play-data-analysis) | Performed data cleaning, EDA, and visualization on app store metadata to uncover insights related to ratings, categories, and monetization. |
+| 🔍 **ML Classification** | [**Classification Project 1**](https://github.com/sntk-76/Classification-project-1) | Designed and evaluated various classification models (Logistic Regression, Random Forest, XGBoost) with hyperparameter tuning and performance comparison. |
+| 🚗 **Price Prediction** | [**Car Price Estimation**](https://github.com/sntk-76/car-price-estimation) | Built regression models to predict car prices based on features such as brand, mileage, fuel type, and age using both linear and ensemble methods. |
+| 📈 **Market Analytics** | [**Market Analysis**](https://github.com/sntk-76/Market-analyze) | Created dashboards and summary analytics of market trends using Python and visualized demand fluctuations and sales insights. |
+| 📰 **Social Data Analysis** | [**Analyzing Ukraine War**](https://github.com/sntk-76/analyzing-Ukraine-war) | Collected and analyzed open-source datasets on Ukraine conflict using pandas and matplotlib to identify event frequency and geopolitical patterns. |
+| 🧵 **Computer Vision** | [**Corrupted Images & Patches**](https://github.com/sntk-76/corrupted-image-and-patches) | Designed a pipeline to detect and patch corrupted image regions using OpenCV and CNN-based heuristics. |
+| 🚦 **Computer Vision** | [**Road Sign Detection**](https://github.com/sntk-76/road-sign-detection) | Trained a YOLOv3-based detector to classify road signs for autonomous navigation. |
+| 🔍 **Edge Detection** | [**Line Detection**](https://github.com/sntk-76/line-detection) | Focused image-processing project that uses edge detection and Hough Transform for identifying linear features. |
+| 🌐 **Network Science** | [**Olympics Game Network**](https://github.com/sntk-76/olympics-game-network) | Performed network analysis on Olympic athletes and events to visualize clusters and centrality in sports relationships. |
 
 ---
 
 ## 🌱 Currently Mastering
 
-I'm always eager to learn and evolve. Here are some of the areas I'm currently diving deeper into:
-
-- **Advanced Python Programming**: ![Python](https://img.shields.io/badge/-Python-blue) Exploring complex concepts and efficient coding practices.
-- **Data Analysis Techniques**: ![Data Science](https://img.shields.io/badge/-Data%20Science-orange) Enhancing my ability to derive actionable insights from complex datasets.
-- **Django Development**: ![Django](https://img.shields.io/badge/-Django-green) Building dynamic, robust web applications using Django.
-
----
-
-## 💬 Let's Talk About
-
-I'm passionate about a range of topics within the tech ecosystem. Feel free to reach out if you want to discuss:
-
-- **Python Programming**: From basics to advanced topics, I love discussing Python.
-- **Data Analysis**: Techniques, tools, and applications in real-world scenarios.
-- **Machine Learning**: Algorithms, models, and everything in between.
+- **Data Engineering Tools**: Terraform, Airflow, Docker, BigQuery, Kafka
+- **Scalable Data Architectures**: Building modular and production-grade pipelines for batch and streaming data
+- **MLOps & Deployment**: Model versioning, CI/CD, container orchestration
+- **Cloud Platforms**: GCP, AWS – focusing on data infrastructure & cost-optimized architecture
 
 ---
 
-## 📫 Get in Touch
+## 💬 Topics I Love Discussing
 
-I'm always open to new opportunities, collaborations, and conversations. You can reach me via:
+- Designing end-to-end data platforms for analytics and ML
+- Data cleaning & wrangling at scale
+- Orchestrating pipelines with Airflow/dbt
+- Bridging the gap between ML prototyping and deployment
+- Cost-effective cloud architecture for big data workloads
+
+---
+
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sina-tavakoli-b25ba6224/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sinatavakoli)
@@ -68,13 +75,7 @@ I'm always open to new opportunities, collaborations, and conversations. You can
 
 ---
 
-## ⚡ A Little More About Me
-
-- I pride myself on being a quick learner and a dedicated worker, always eager to tackle new challenges head-on. My enthusiasm for programming is boundless, driving me to continuously improve my skills and knowledge. Whether it’s mastering a new technology or solving a complex problem, I approach each task with determination and a positive attitude. My relentless passion for coding and problem-solving fuels my drive to deliver innovative and efficient solutions, making me a valuable asset in any project or team.
-
----
-
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sntk-76&show_icons=true&theme=radical" alt="Sina's GitHub Stats" />
@@ -95,4 +96,4 @@ I'm always open to new opportunities, collaborations, and conversations. You can
 
 - **Portfolio**: [My Portfolio](#)
 - **Blog**: [My Blog](#)
-- **Resume**: [Download My Resume](https://github.com/sntk-76/sntk-76/blob/main/assets/O_resume.pdf)
+- **Resume**: [Download My Resume](https://github.com/sntk-76/sntk-76/blob/main/assets/EN_RESUME.pdf)
