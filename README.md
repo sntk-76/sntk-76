@@ -20,6 +20,8 @@ Here are some of the projects that I've worked on, which reflect my capabilities
 
 | **Project** | **Description** |
 |-------------|-----------------|
+| [**Retail-Data-Pipeline**](https://github.com/sntk-76/Retail-Data-Pipeline) | ![data pipeline](https://img.shields.io/badge/-Datapipeline-blue) This repository offers a scalable, automated cloud-native pipeline for retail data processing, transformation, and visualization using industry-standard tools. |
+| [**Data-Mining**](https://github.com/sntk-76/Data-Mining) | ![Dee learning](https://img.shields.io/badge/-DeppLearning-blue) This project classifies Reddit posts by popularity using NLP and deep learning techniques. |
 | [**Abstract-base-sentiment-analysis**](https://github.com/sntk-76/Abstract-base-sentiment-analysis) | ![NLP](https://img.shields.io/badge/-NLP-blue) Sentiment analysis using abstract data, leveraging NLP techniques. |
 | [**Breast-Cancer**](https://github.com/sntk-76/Breast-Cancer) | ![ML](https://img.shields.io/badge/-Machine%20Learning-red) Predictive analysis of breast cancer using machine learning algorithms. |
 | [**Customer-Segmentation**](https://github.com/sntk-76/Customer-Segmentation) | ![Data Science](https://img.shields.io/badge/-Data%20Science-orange) Segmenting customers based on demographic and behavioral data. |
