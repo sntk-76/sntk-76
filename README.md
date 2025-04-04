@@ -31,20 +31,20 @@ With over 4 years of hands-on experience in Python programming, I’ve successfu
 | **Category** | **Project** | **Description** |
 |-------------|-------------|-----------------|
 | Data Engineering | [Retail Data Pipeline](https://github.com/sntk-76/Retail-Data-Pipeline) | A scalable pipeline built with Docker, Airflow, and BigQuery for ingestion, transformation, and visualization of retail data. Demonstrates CI/CD and modular ETL. |
-| Deep Learning / NLP | [Data Mining](https://github.com/sntk-76/Data-Mining) | Reddit post classifier using LSTM-based deep learning for popularity prediction. |
-| NLP / Sentiment Analysis | [Abstract-Based Sentiment Analysis](https://github.com/sntk-76/Abstract-base-sentiment-analysis) | Extracted sentiment from research abstracts using pretrained NLP models. |
-| Predictive Modeling | [Breast Cancer Detection](https://github.com/sntk-76/Breast-Cancer) | Developed SVM and Random Forest models for early-stage cancer detection. |
-| Customer Analytics | [Customer Segmentation](https://github.com/sntk-76/Customer-Segmentation) | Applied clustering (KMeans, DBSCAN) to segment customer behaviors. |
-| Python Projects | [Snake Game](https://github.com/sntk-76/Snake-Game) | A modular Python implementation of the classic Snake game using Pygame. |
-| Exploratory Data Analysis | [Google Play Store Analysis](https://github.com/sntk-76/google-play-data-analysis) | Cleaned and visualized app metadata to explore rating and monetization trends. |
-| ML Classification | [Classification Project 1](https://github.com/sntk-76/Classification-project-1) | Trained multiple classifiers (Logistic, Random Forest, XGBoost) with tuning. |
-| Price Prediction | [Car Price Estimation](https://github.com/sntk-76/car-price-estimation) | Used regression techniques to estimate car prices based on key features. |
-| Market Analytics | [Market Analysis](https://github.com/sntk-76/Market-analyze) | Built dashboards and reports to visualize market trends and demand shifts. |
-| Social Data Analysis | [Analyzing Ukraine War](https://github.com/sntk-76/analyzing-Ukraine-war) | Analyzed public datasets to identify patterns in geopolitical event data. |
+| Deep Learning| [Data Mining](https://github.com/sntk-76/Data-Mining) | Reddit post classifier using LSTM-based deep learning for popularity prediction. |
+| NLP| [Abstract-Based Sentiment Analysis](https://github.com/sntk-76/Abstract-base-sentiment-analysis) | Extracted sentiment from research abstracts using pretrained NLP models. |
+| Deep Learning| [Breast Cancer Detection](https://github.com/sntk-76/Breast-Cancer) | Developed SVM and Random Forest models for early-stage cancer detection. |
+| Data analysis | [Customer Segmentation](https://github.com/sntk-76/Customer-Segmentation) | Applied clustering (KMeans, DBSCAN) to segment customer behaviors. |
+| Game Development | [Snake Game](https://github.com/sntk-76/Snake-Game) | A modular Python implementation of the classic Snake game using Pygame. |
+| Data Analysis | [Google Play Store Analysis](https://github.com/sntk-76/google-play-data-analysis) | Cleaned and visualized app metadata to explore rating and monetization trends. |
+| ML | [Classification Project 1](https://github.com/sntk-76/Classification-project-1) | Trained multiple classifiers (Logistic, Random Forest, XGBoost) with tuning. |
+| ML | [Car Price Estimation](https://github.com/sntk-76/car-price-estimation) | Used regression techniques to estimate car prices based on key features. |
+| Data Analysis | [Market Analysis](https://github.com/sntk-76/Market-analyze) | Built dashboards and reports to visualize market trends and demand shifts. |
+| Data Analysis | [Analyzing Ukraine War](https://github.com/sntk-76/analyzing-Ukraine-war) | Analyzed public datasets to identify patterns in geopolitical event data. |
 | Computer Vision | [Corrupted Images & Patches](https://github.com/sntk-76/corrupted-image-and-patches) | Detected and corrected corrupted image regions using OpenCV and CNNs. |
 | Computer Vision | [Road Sign Detection](https://github.com/sntk-76/road-sign-detection) | Trained a YOLOv3-based object detector for road sign classification. |
-| Edge Detection | [Line Detection](https://github.com/sntk-76/line-detection) | Used edge detection and Hough Transform for identifying linear features. |
-| Network Science | [Olympics Game Network](https://github.com/sntk-76/olympics-game-network) | Visualized network relationships among Olympic sports and athletes. |
+| Computer Vision | [Line Detection](https://github.com/sntk-76/line-detection) | Used edge detection and Hough Transform for identifying linear features. |
+| Data Analysis | [Olympics Game Network](https://github.com/sntk-76/olympics-game-network) | Visualized network relationships among Olympic sports and athletes. |
 
 ---
 
