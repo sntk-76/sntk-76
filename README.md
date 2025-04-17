@@ -30,6 +30,7 @@ With over 4 years of hands-on experience in Python programming, I’ve successfu
 
 | **Category** | **Project** | **Description** |
 |-------------|-------------|-----------------|
+| Data Engineering | [energy_forecast_pipeline](https://github.com/sntk-76/energy-forecast-pipeline) |A cloud-native batch pipeline built with Terraform, Airflow, Spark, BigQuery, and Prophet to ingest, clean, forecast, and visualize Germany's energy consumption. Includes dbt modeling and Power BI dashboards.|
 | Data Engineering | [Retail Data Pipeline](https://github.com/sntk-76/Retail-Data-Pipeline) | A scalable pipeline built with Docker, Airflow, and BigQuery for ingestion, transformation, and visualization of retail data. Demonstrates CI/CD and modular ETL. |
 | Deep Learning| [Data Mining](https://github.com/sntk-76/Data-Mining) | Reddit post classifier using LSTM-based deep learning for popularity prediction. |
 | NLP| [Abstract-Based Sentiment Analysis](https://github.com/sntk-76/Abstract-base-sentiment-analysis) | Extracted sentiment from research abstracts using pretrained NLP models. |
