@@ -9,6 +9,7 @@
 ---
 
 ### Welcome to My GitHub Profile
+![Profile views](https://img.shields.io/badge/Visits-2157-blue)
 
 I'm a data-driven Python developer with a strong academic foundation and professional experience at the intersection of data science, data engineering, and machine learning. Holding a Bachelor's in Electrical Engineering and currently pursuing a Master's in ICT, I specialize in building scalable, reliable, and impactful data solutions that empower decision-making and automation.
 
@@ -98,5 +99,4 @@ With over 4 years of hands-on experience in Python programming, I’ve successfu
 - **Portfolio**: [My Portfolio](#)  
 - **Blog**: [My Blog](#)  
 - **Resume**: [Download My Resume](https://github.com/sntk-76/sntk-76/blob/main/assets/EN_RESUME.pdf)
-- ![Profile views](https://img.shields.io/badge/Visits-2157-blue)
 
