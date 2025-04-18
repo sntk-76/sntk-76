@@ -99,6 +99,5 @@ With over 4 years of hands-on experience in Python programming, I’ve successfu
 - **Portfolio**: [My Portfolio](#)  
 - **Blog**: [My Blog](#)  
 - **Resume**: [Download My Resume](https://github.com/sntk-76/sntk-76/blob/main/assets/EN_RESUME.pdf)
-(`https://profile-counter.glitch.me/{sntk-76}/count.svg`).
-
+![Visitor Count](https://profile-counter.glitch.me/{sntk-76}/count.svg)
 
