@@ -9,7 +9,7 @@
 ---
 
 ### Welcome to My GitHub Profile
-![](https://komarev.com/ghpvc/?username=sntk-76&base=1000)
+![](https://komarev.com/ghpvc/?username=sntk-76&base=530)
 
 I'm a data-driven Python developer with a strong academic foundation and professional experience at the intersection of data science, data engineering, and machine learning. Holding a Bachelor's in Electrical Engineering and currently pursuing a Master's in ICT, I specialize in building scalable, reliable, and impactful data solutions that empower decision-making and automation.
 
