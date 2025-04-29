@@ -1,9 +1,5 @@
 # Hi there, I'm Sina Tavakoli
 
-![Data Engineer](https://img.shields.io/badge/Data_Engineer-%23009688?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-%23F7DF1E?style=for-the-badge&logo=data%20science&logoColor=white)
-![Python Developer](https://img.shields.io/badge/Python_Developer-%2336BCF7?style=for-the-badge&logo=python&logoColor=white)
-
 ![Banner](https://github.com/sntk-76/sntk-76/blob/main/assets/_57475d54-6d09-41bd-a96a-4d116609c547.jfif)
 
 ---
