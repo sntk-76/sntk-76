@@ -1,10 +1,7 @@
-# Hi there, I'm Sina Tavakoli
-
-![Banner](https://github.com/sntk-76/sntk-76/blob/main/assets/_57475d54-6d09-41bd-a96a-4d116609c547.jfif)
+![Banner](https://github.com/sntk-76/sntk-76/blob/main/assets/Sina.png)
 
 ---
 
-### Welcome to My GitHub Profile
 ![](https://komarev.com/ghpvc/?username=sntk-76&base=530)
 
 I'm a data-driven Python developer with a strong academic foundation and professional experience at the intersection of data science, data engineering, and machine learning. Holding a Bachelor's in Electrical Engineering and currently pursuing a Master's in ICT, I specialize in building scalable, reliable, and impactful data solutions that empower decision-making and automation.
