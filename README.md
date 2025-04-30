@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sntk-76&base=530)
 
-I'm a data-driven Python developer with a strong academic foundation and professional experience at the intersection of data science, data engineering, and machine learning. Holding a Bachelor's in Electrical Engineering and currently pursuing a Master's in ICT, I specialize in building scalable, reliable, and impactful data solutions that empower decision-making and automation.
+I'm a data-driven Python developer with a strong academic foundation and professional experience spanning Data Science, Data Engineering, Data Analysis, and Machine Learning/AI Engineering. Holding a Bachelor's in Electrical Engineering and currently pursuing a Master's in ICT from Padova University, where I researched NLP and BERT-based models for emotion and slur detection, and a structured mobility program at Mannheim University focused on informatics and enterprise analytics. This dual perspective—academic rigor and practical implementation—shapes my approach to solving complex data challenges.
 
 With over 4 years of hands-on experience in Python programming, I’ve successfully contributed to projects ranging from cloud-native data pipelines to deep learning-based sentiment analysis. I thrive in environments where I can combine analytical thinking with engineering rigor to deliver end-to-end solutions that drive real value.
 
