@@ -90,7 +90,8 @@ With over 4 years of hands-on experience in Python programming, I’ve successfu
 
 ## Useful Links
 
-- **Portfolio**: [My Portfolio](#)  
+- **Portfolio**: [My Portfolio](#)
+- **Web app** : [Bookwise-ai](https://bookwise-ai-recommendation.streamlit.app/)
 - **Blog**: [My Blog](#)  
 - **Resume**: [Download My Resume](https://github.com/sntk-76/sntk-76/blob/main/assets/EN_RESUME.pdf)
 
