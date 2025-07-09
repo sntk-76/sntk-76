@@ -12,7 +12,7 @@ With over 4 years of hands-on experience in Python programming, I’ve successfu
 
 ## Core Competencies
 
-- **Programming:** Python, SQL, Bash, Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Programming:** JavaScript, TypeScript, Python, SQL, Bash, React.js, Node.js, REST API Development, Django
 - **Data Engineering:** Apache Airflow, Docker, Terraform, dbt, ETL/ELT pipelines, cloud storage (GCP & AWS)  
 - **Data Science:** Machine Learning, Data Cleaning, Feature Engineering, Predictive Modeling  
 - **Tools:** GitHub, Jupyter, VS Code, Tableau, Power BI, Google BigQuery  
