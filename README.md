@@ -24,6 +24,7 @@ With over 4 years of hands-on experience in programming, I’ve successfully con
 
 | **Category** | **Project** | **Description** |
 |-------------|-------------|-----------------|
+| Web Application | [AI-weather-predictor](https://github.com/sntk-76/AI-weather-predictor) |This project is a production-grade, end-to-end machine learning pipeline that forecasts 7-day weather conditions for cities worldwide. It integrates modern MLOps tools, cloud infrastructure, deep learning architectures, a scalable preprocessing pipeline, and a conversational LLM interface. The final product is exposed via a web application that accepts user input and returns a human-readable forecast summary.|
 | Web Application | [bookwise-ai](https://github.com/sntk-76/bookwise-ai) |Bookwise-AI is a smart book recommendation system that uses Sentence-BERT to match user queries with enriched book descriptions, featuring an interactive Streamlit frontend and scalable infrastructure.|
 | Data Engineering | [energy_forecast_pipeline](https://github.com/sntk-76/energy-forecast-pipeline) |A cloud-native batch pipeline built with Terraform, Airflow, Spark, BigQuery, and Prophet to ingest, clean, forecast, and visualize Germany's energy consumption. Includes dbt modeling and Power BI dashboards.|
 | Data Engineering | [Retail Data Pipeline](https://github.com/sntk-76/Retail-Data-Pipeline) | A scalable pipeline built with Docker, Airflow, and BigQuery for ingestion, transformation, and visualization of retail data. Demonstrates CI/CD and modular ETL. |
