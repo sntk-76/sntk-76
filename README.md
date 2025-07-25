@@ -91,7 +91,6 @@ With over 4 years of hands-on experience in programming, I’ve successfully con
 
 ## Useful Links
 
-- **Portfolio**: [My Portfolio](#)
 - **Web app** : [Bookwise-ai](https://bookwise-ai-recommendation.streamlit.app/)
-- **Blog**: [My Blog](#)
+- **Web app**: [AI-weather-forecast](https://ai-weather-predictor.streamlit.app/)
 
