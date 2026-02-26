@@ -79,8 +79,6 @@ With over 4 years of hands-on experience in programming, I’ve successfully con
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntk-76&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
 ## GitHub Trophies
 
 <p align="center">
@@ -88,6 +86,7 @@ With over 4 years of hands-on experience in programming, I’ve successfully con
 </p>
 
 ---
+
 
 ## Useful Links
 
