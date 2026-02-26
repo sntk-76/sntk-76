@@ -72,17 +72,28 @@ With over 4 years of hands-on experience in programming, I’ve successfully con
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sntk-76&show_icons=true&theme=radical" alt="Sina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntk-76&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sntk-76&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntk-76&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
+    height="170"
+  />
 </p>
 
-## GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sntk-76&theme=radical" alt="Sina's GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sntk-76&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1" 
+  />
 </p>
 
 ---
