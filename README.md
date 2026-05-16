@@ -1,4 +1,4 @@
-![Sina Tavakoli banner](assets/Sina.png)
+![Sina Tavakoli | Software, Data, and AI Engineer](assets/profile-banner.png)
 
 <p align="center">
   <a href="https://github.com/sntk-76">
