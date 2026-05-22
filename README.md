@@ -13,6 +13,9 @@
   <a href="https://www.kaggle.com/sinatavakoli">
     <img src="https://img.shields.io/badge/Kaggle-sinatavakoli-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+    <a href="https://sntk-76.github.io/resume-web-app/">
+    <img src="https://img.shields.io/badge/WebPage-sinatavakoli-20BEFF?style=flat&logo=Web&logoColor=white" alt="Webpage" />
+  </a>
 </p>
 
 ## Sina Tavakoli
