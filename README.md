@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Kaggle-sinatavakoli-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
     <a href="https://sntk-76.github.io/resume-web-app/">
-    <img src="https://img.shields.io/badge/Portfolio?style=flat&logo=Web&logoColor=white" alt="Webpage" />
+    <img src="https://img.shields.io/badge/Webpage?style=flat&logo=Web&logoColor=white" alt="Webpage" />
   </a>
 </p>
 
