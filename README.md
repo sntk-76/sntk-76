@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Kaggle-sinatavakoli-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
     <a href="https://sntk-76.github.io/resume-web-app/">
-    <img src="https://img.shields.io/badge/WebPage-sinatavakoli-20BEFF?style=flat&logo=Web&logoColor=white" alt="Webpage" />
+    <img src="https://img.shields.io/badge/WebPage-sinatavakoli-20BEFF?style=flat&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -81,4 +81,5 @@ Across professional and academic work, I have built REST APIs, PostgreSQL-backed
 
 I am always interested in thoughtful software, data, and AI work: backend platforms, data engineering, analytics automation, ML systems, and research-driven product ideas.
 
-[LinkedIn](https://www.linkedin.com/in/sina-tavakoli-b25ba6224/) | [Kaggle](https://www.kaggle.com/sinatavakoli) | [Email](mailto:sina.tvk.1997@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sina-tavakoli-b25ba6224/) | [Kaggle](https://www.kaggle.com/sinatavakoli) | [Email](mailto:sina.tvk.1997@gmail.com) | [Portfolio](https://sntk-76.github.io/resume-web-app/)
+
