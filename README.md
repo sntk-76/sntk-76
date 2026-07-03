@@ -81,5 +81,5 @@ Across professional and academic work, I have built REST APIs, PostgreSQL-backed
 
 I am always interested in thoughtful software, data, and AI work: backend platforms, data engineering, analytics automation, ML systems, and research-driven product ideas.
 
-[LinkedIn](https://www.linkedin.com/in/sina-tavakoli-b25ba6224/) | [Kaggle](https://www.kaggle.com/sinatavakoli) | [Email](mailto:sina.tvk.1997@gmail.com) | [Portfolio](https://sntk-76.github.io/resume-web-app/)
+[LinkedIn](https://www.linkedin.com/in/sina-tavakoli-b25ba6224/) | [Kaggle](https://www.kaggle.com/sinatavakoli) | [Email](mailto:sina.tvk.1997@gmail.com) | [Portfolio](https://sntk-76.github.io/resume-web-app/) | [BOTVERIO](https://WWW.BOTVERIO.COM)
 
