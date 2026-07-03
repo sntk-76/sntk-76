@@ -67,6 +67,7 @@ Across professional and academic work, I have built REST APIs, PostgreSQL-backed
 
 ## Live Apps
 
+-  [botverio](https://www.botverio.com/)
 - [Bookwise AI recommendation app](https://bookwise-ai-recommendation.streamlit.app/)
 - [AI weather forecast app](https://ai-weather-predictor.streamlit.app/)
 
